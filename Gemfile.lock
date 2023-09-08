@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.9.2)
+    json (2.6.3)
+    thor (1.2.2)
+
+PLATFORMS
+  arm64-darwin-23
+
+DEPENDENCIES
+  awesome_print (~> 1.9)
+  json (~> 2.6)
+  thor (~> 1.2)
+
+RUBY VERSION
+   ruby 3.2.2p53
+
+BUNDLED WITH
+   2.4.19
