@@ -12,3 +12,6 @@ gem 'json', '~> 2.6'
 
 # Thor: A toolkit for building command-line interfaces (CLIs)
 gem 'thor', '~> 1.2'
+
+# RSpec: Testing framework
+gem 'rspec', '~> 3.12'
